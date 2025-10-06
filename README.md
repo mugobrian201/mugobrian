@@ -10,11 +10,12 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a graduate of **Data Science** from **WorldQuant University**.
+- 🎓 I'm also a graduate from Karatina University where I studied Bachelor's of Science in Actuarial Science.
 - 🔭 I’m currently working on sharpening my skills through personal projects in **Machine Learning** and **Data Analysis**.
-- 🌱 I’m currently learning about **Advanced Machine Learning models** and best practices in **MLOps**.
+- 🌱 I’m currently learning about **Advanced Machine Learning models**.
 - 👯 I’m looking to collaborate on **data-driven projects** that solve real-world problems.
 - 💬 Ask me about **Python, Data Cleaning, Logistic/Linear Regression, and Decision Trees**.
-- 📫 How to reach me: **muitiriribrian1@gmail.com** (Replace with your actual email)
+- 📫 How to reach me: **mugobrian201@gmail.com**
 - ⚡ Fun fact: I believe a well-cleaned dataset is a work of art! 🎨
 
 ---
