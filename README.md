@@ -41,27 +41,6 @@
 
 ---
 
-### 📊 Data Science Workflow
-
-I am proficient in the end-to-end data science lifecycle:
-
-<p align="center">
-  <img src="(https://github.com/mugobrian201/portfolio)" alt="Data Science Workflow" width="600"/>
-</p>
-
-*From data acquisition and cleaning to model deployment and communication.*
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianMuitiririMugo&show_icons=true&theme=radical" alt="Brian's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMuitiririMugo&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 [![LinkedIn] (https://www.linkedin.com/in/brian-mugo-a76339370?utm_source=share_via&utm_content=profile&utm_medium=member_android)
