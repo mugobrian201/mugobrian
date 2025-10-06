@@ -46,7 +46,7 @@
 I am proficient in the end-to-end data science lifecycle:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6a8d1c1d-8b8f-4c78-8c37-2b3a2c8c2faa" alt="Data Science Workflow" width="600"/>
+  <img src="[https://github.com/user-attachments/assets/6a8d1c1d-8b8f-4c78-8c37-2b3a2c8c2faa](https://github.com/mugobrian201/portfolio)" alt="Data Science Workflow" width="600"/>
 </p>
 
 *From data acquisition and cleaning to model deployment and communication.*
